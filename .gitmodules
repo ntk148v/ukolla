@@ -1,0 +1,6 @@
+[submodule "kolla-ansible"]
+	path = kolla-ansible
+	url = https://github.com/ntk148v/kolla-ansible.git
+[submodule "kolla"]
+	path = kolla
+	url = https://github.com/ntk148v/kolla.git
